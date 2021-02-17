@@ -1,2 +1,3 @@
-# HackSlash_Competition-
-# Gitam HACKSLASH-HACKATHON COMPETITION 
+# HackSlash_Competition
+
+### Gitam HACKSLASH-HACKATHON COMPETITION 
