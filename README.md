@@ -40,6 +40,11 @@ https://www.coursera.org/specializations/generative-adversarial-networks-gans
 
 FINAL OUTPUT:
 
+![cc](https://user-images.githubusercontent.com/47123679/108618516-0592bc00-7445-11eb-9dce-68cc137319e9.png)
+
+
+
+Tried to get the output but i dont know wheather its the version problem or should i try other way around 
 
 
 DONE BY:
