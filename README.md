@@ -1,5 +1,7 @@
 # HackSlash_Competition
 
+WILDCARD ENTRY - TECH USED DEEP LEARNING
+
 ### Gitam HACKSLASH-HACKATHON COMPETITION 
 
 This python notebook is on CYCLE GAN the architecture is given as follows
@@ -13,4 +15,45 @@ Here we have two networks known as Generator and Discriminator where the Generat
 Here no of epoches are 1,00,000
 
 This is made to run on Google Colab
+
+As you can see the output in the final cell in the notebook as the output we get is the initial image without any rotation as the neural network is successfully able to generate image with rotated image given as input
+
+Reference:
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+
+Applications of Cycle GAN are :
+
+-> Summer to Winter
+
+-> Labels to street scene
+
+-> Labels to realistic image 
+
+-> black and white photo to color photo
+
+
+
+Course:
+https://www.coursera.org/specializations/generative-adversarial-networks-gans
+
+
+
+FINAL OUTPUT:
+
+
+
+DONE BY:
+
+
+M DINESH KUMAR 
+
+ECE A2
+
+221810402010
+
+GITAM UNIVERSITY, HYDERABAD
+
+Email id : 221810402010@gitam.in
+
+phone number: 9000018592
 
